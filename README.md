@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ug8u9lwdgjr6opi3?svg=true)](https://ci.appveyor.com/project/Tatiana0325/ra-diplom-frontend)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
